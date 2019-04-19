@@ -1,0 +1,5 @@
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\bin\Debug\ISACv3.dll
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\bin\Debug\ISACv3.pdb
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\obj\Debug\docker-compose.dcproj.CopyComplete

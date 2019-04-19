@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  isacv3:
+    build:
+      context: C:\Users\trexm\Google Drive\IN 2017\ISACv3
+      dockerfile: ISACv3\Dockerfile
+    image: isacv3
+version: '3.4'

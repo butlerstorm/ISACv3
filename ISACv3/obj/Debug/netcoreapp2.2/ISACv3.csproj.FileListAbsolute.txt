@@ -1,0 +1,10 @@
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\bin\Debug\netcoreapp2.2\ISACv3.deps.json
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\bin\Debug\netcoreapp2.2\ISACv3.runtimeconfig.json
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\bin\Debug\netcoreapp2.2\ISACv3.runtimeconfig.dev.json
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\bin\Debug\netcoreapp2.2\ISACv3.dll
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\bin\Debug\netcoreapp2.2\ISACv3.pdb
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\obj\Debug\netcoreapp2.2\ISACv3.csproj.CoreCompileInputs.cache
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\obj\Debug\netcoreapp2.2\ISACv3.AssemblyInfoInputs.cache
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\obj\Debug\netcoreapp2.2\ISACv3.AssemblyInfo.cs
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\obj\Debug\netcoreapp2.2\ISACv3.dll
+C:\Users\trexm\Google Drive\IN 2017\ISACv3\ISACv3\obj\Debug\netcoreapp2.2\ISACv3.pdb
